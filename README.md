@@ -1,6 +1,3 @@
-Je vais créer un README détaillé en français pour votre projet de gestion d'école.
-
-```markdown
 # Système de Gestion Scolaire 🎓
 
 ## Description
@@ -113,4 +110,3 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## Licence
 Ce projet est sous licence MIT.
-```
